@@ -30,5 +30,5 @@ link_packages.bat C:\Repositories\esb_test C:\SoftwareAG\IntegrationServer\insta
 
 
 ```bat
-C:\Users\mmatokovic\source\repos\scripts\link_packages\link_packages_v2.bat C:\Users\mmatokovic\source\repos\Integration\webmethods C:\SoftwareAG\IntegrationServer\instances\default\packages v1
+C:\Users\mmatokovic\source\repos\scripts\link_packages\link_v2.bat C:\Users\mmatokovic\source\repos\Integration\webmethods C:\SoftwareAG\IntegrationServer\instances\default\packages v2
 ```
