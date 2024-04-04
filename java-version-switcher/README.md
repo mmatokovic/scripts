@@ -1,6 +1,6 @@
 # Java Version Script
 
-[Java SE](https://www.oracle.com/java/technologies/java-se-glance.html)
+[Java SE](https://www.oracle.com/java/technologies/java-se-glance.html)  
 [Java JDK](https://jdk.java.net/)
 
 Check Your Java Version on Windows
@@ -22,7 +22,6 @@ As the default version, I recommend the current release version, Java 21
   * `C:\Program Files (x86)\Common Files\Oracle\Java\javapath`
 * Insert the following entry instead:
   * `%JAVA_HOME%\bin` entry ensures that Path and JAVA_HOME are automatically consistent.
-
 
 ## Installing Multiple Java Versions
 
